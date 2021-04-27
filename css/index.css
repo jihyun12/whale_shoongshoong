@@ -8,7 +8,7 @@
     text-align: center;
     display: grid;
     grid-template-columns: 70px 70px 70px;
-	grid-template-rows: 90px 90px ;
+	grid-template-rows: 90px 90px 90px;
     margin-bottom:15px;
 }
 .table-line{
